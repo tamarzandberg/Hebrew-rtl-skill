@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hebrew-rtl-skill",
+  "description": "Hebrew RTL document formatting plugin for Claude Code",
+  "owner": {
+    "name": "Tamar Zandberg"
+  },
+  "plugins": [
+    {
+      "name": "hebrew-rtl",
+      "description": "Hebrew RTL document formatting skill — ensures correct right-to-left layout, fonts, and punctuation for .docx, .pptx, HTML, and PDF",
+      "version": "1.0.0",
+      "author": {
+        "name": "Tamar Zandberg"
+      },
+      "source": "./",
+      "category": "internationalization",
+      "keywords": ["hebrew", "rtl", "right-to-left", "i18n", "docx", "pptx", "formatting"]
+    }
+  ]
+}
