@@ -1,0 +1,12 @@
+{
+  "name": "hebrew-rtl",
+  "description": "Hebrew RTL document formatting skill for .docx, .pptx, HTML, and PDF — ensures correct right-to-left layout, fonts, and punctuation",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tamar Zandberg"
+  },
+  "homepage": "https://github.com/tamarzandberg/Hebrew-rtl-skill",
+  "repository": "https://github.com/tamarzandberg/Hebrew-rtl-skill",
+  "license": "MIT",
+  "keywords": ["hebrew", "rtl", "right-to-left", "i18n", "docx", "pptx", "formatting"]
+}
